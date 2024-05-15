@@ -1,0 +1,51 @@
+# depslib dependency file v1.0
+1702044204 source:c:\users\halae\onedrive\desktop\flight booking system\flight booking system\main.c
+	<stdio.h>
+	<stdlib.h>
+	"flight.h"
+
+1702147969 c:\users\halae\onedrive\desktop\flight booking system\flight booking system\flight.h
+
+1702058097 source:c:\users\halae\onedrive\desktop\flight booking system\flight booking system\flight.c
+	"flight.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1701868399 source:c:\users\halae\onedrive\desktop\flight booking system (tree)\flight booking system\main.c
+	<stdio.h>
+	<stdlib.h>
+	"flight.h"
+
+1701949162 c:\users\halae\onedrive\desktop\flight booking system (tree)\flight booking system\flight.h
+
+1701955967 source:c:\users\halae\onedrive\desktop\flight booking system (tree)\flight booking system\flight.c
+	"flight.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1702148367 source:c:\users\halae\onedrive\desktop\flight booking system - copy\flight booking system\main.c
+	<stdio.h>
+	<stdlib.h>
+	"flight.h"
+
+1702148367 c:\users\halae\onedrive\desktop\flight booking system - copy\flight booking system\flight.h
+
+1702302888 source:c:\users\halae\onedrive\desktop\flight booking system-tree\flight booking system\flight.c
+	"flight.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<stdbool.h>
+
+1702332754 c:\users\halae\onedrive\desktop\flight booking system-tree\flight booking system\flight.h
+
+1702148367 source:c:\users\halae\onedrive\desktop\flight booking system-tree\flight booking system\main.c
+	<stdio.h>
+	<stdlib.h>
+	"flight.h"
+
