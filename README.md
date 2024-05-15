@@ -1,0 +1,3 @@
+## Overview
+
+Welcome to the Flight Booking System project, designed to streamline traveler's record services for airlines. This system offers a comprehensive set of features, including creating new client accounts, updating existing information, managing classes, and more. With functions like NEW_CLIENT, DELETE_CLIENT, CLIENT_LIST, CLIENT_EDIT, FREE_SEATS, and CLASS_LIST, users can efficiently handle various aspects of client management and seat allocation. The system leverages RAM Heap section for optimal performance, ensuring smooth execution and reliable data storage. Let's embark on a journey of simplified airline passenger management with the Flight Booking System.
